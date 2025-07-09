@@ -26,6 +26,16 @@
 
 ## 🚀 Featured Projects
 
+### 🔸 [fastapi-armor](https://github.com/inanpy/fastapi-armor)
+> 🛡️ A lightweight security middleware for FastAPI to manage HTTP security headers (like Helmet for Express.js)
+
+<p>
+  <img src="https://img.shields.io/github/stars/inanpy/fastapi-armor?style=social" />
+  <img src="https://img.shields.io/github/languages/top/inanpy/fastapi-armor" />
+</p>
+
+---
+
 ### 🔸 [fastapi-sse-example](https://github.com/inanpy/fastapi-sse-example)
 > 💡 Real-time notifications with Server-Sent Events (SSE) using FastAPI
 
