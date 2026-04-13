@@ -22,7 +22,7 @@
 - 🐍 Deep expertise in FastAPI, Django, Kafka, Redis & Kubernetes
 - 📦 Open-source contributor and package maintainer
 - ✍️ Sharing technical content on Medium
-- 🌍 Based in Zagreb, Croatia 🇭🇷 · Originally from Turkey 🇹🇷
+- 🌍 Based in Croatia 🇭🇷
 
 ---
 
