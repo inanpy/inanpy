@@ -16,11 +16,13 @@
 
 ## 🧑‍💻 About Me
 
-- 👨‍💻 Senior Python Developer | Backend Team Lead
-- 🐍 Passionate about FastAPI, Django, and scalable backend systems
+- 🚀 Senior Python Engineer | Tech Lead & Architect
+- 🤖 Passionate about Generative AI, Agentic Workflows & AI Automation
+- ⚙️ Building distributed systems, microservices & high-scale backend architectures
+- 🐍 Deep expertise in FastAPI, Django, Kafka, Redis & Kubernetes
 - 📦 Open-source contributor and package maintainer
-- ✍️ I share technical content on Medium (mostly in English)
-- 🌍 Based in Croatia 🇭🇷, originally from Turkey 🇹🇷
+- ✍️ Sharing technical content on Medium
+- 🌍 Based in Zagreb, Croatia 🇭🇷 · Originally from Turkey 🇹🇷
 
 ---
 
