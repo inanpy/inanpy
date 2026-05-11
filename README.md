@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 Senior Python Engineer | Tech Lead & Architect
+- 🚀 Senior Python Engineer | Team Lead & Architect
 - 🤖 Passionate about Generative AI, Agentic Workflows & AI Automation
 - ⚙️ Building distributed systems, microservices & high-scale backend architectures
 - 🐍 Deep expertise in FastAPI, Django, Kafka, Redis & Kubernetes
