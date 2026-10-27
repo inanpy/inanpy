@@ -16,13 +16,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 Senior Python Engineer | Backend Team Lead
-- ⚙️ Building distributed systems, microservices, and scalable backend architectures
-- 🐍 Working with FastAPI, Django, PostgreSQL, Kafka, Redis, and Kubernetes
-- 🤖 Exploring AI-enabled backend workflows, LLM integrations, MCP servers, and automation
-- 📦 Open-source contributor and package maintainer
-- ✍️ Writing about backend engineering, system design, and real-world engineering challenges on Medium
-- 🌍 Based in Zagreb, Croatia 🇭🇷
+* 🚀 Senior Backend Engineer | Python | Distributed Systems
+* ⚙️ Building backend systems, microservices, and event-driven applications
+* 🐍 Working with Python, FastAPI, Django, PostgreSQL, Kafka, Redis, and Kubernetes
+* 🤖 Exploring LLM integrations, AI agents, MCP servers, and backend automation
+* ✍️ Writing about backend engineering and real-world technical challenges on Medium
+* 🌍 Based in Zagreb, Croatia 🇭🇷
 
 ---
 
